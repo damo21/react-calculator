@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+
+body{
+  background-color: #344966;
+}
+
+h1{
+ color: #0D1821; 
+}
+
+.calculatorBody{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 560px;
+  width: 500px;
+  border-radius: 20px;
+  background-color: #0D1821;
+}
+
+
+.textbox{
+  position: absolute;
+  display: block;
+  margin: auto;
+  top:10px;
+  left:5px;
+  right:7px;
+  height: 75px;
+  width: 475px;
+  border-radius: 13px;
+  text-align: right!important;
+  background-color: #B4CDED;
+  border: 0px;
+  outline:none;
+  font-size: 42px;
+  font-family: 'Fjalla One', sans-serif;
+  -webkit-appearance: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
