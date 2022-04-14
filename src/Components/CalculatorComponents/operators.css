@@ -1,0 +1,165 @@
+.operatorsBackground {
+  position: absolute;
+  margin: auto;
+  bottom: 15px;
+  right: 10px;
+  height: 288px;
+  width: 150px;
+  background-color: #b4cded;
+  border-radius: 20px;
+}
+
+.AC {
+  position: absolute;
+  margin: auto;
+  top: 6px;
+  left: 5px;
+  border-radius: 13px;
+  background-color: #bfcc94;
+  text-align: center;
+  height: 65px;
+  width: 65px;
+  outline: none;
+  border: none;
+  font-size: 42px;
+  font-family: "Fjalla One", sans-serif;
+  transition-duration: 0.2s;
+  border: 1px solid #abb686;
+}
+
+.AC:hover {
+    background-color: #ABB686;
+}
+
+.C {
+    position: absolute;
+    margin: auto;
+    top: 6px;
+    right: 5px;
+    border-radius: 13px;
+    background-color: #bfcc94;
+    text-align: center;
+    height: 65px;
+    width: 65px;
+    outline: none;
+    border: none;
+    font-size: 42px;
+    font-family: "Fjalla One", sans-serif;
+    transition-duration: 0.2s;
+    border: 1px solid #abb686;
+  }
+  
+  .C:hover {
+      background-color: #ABB686;
+  }
+
+  .Plus {
+    position: absolute;
+    margin: auto;
+    top: 75px;
+    left: 5px;
+    border-radius: 13px;
+    background-color: #bfcc94;
+    text-align: center;
+    height: 65px;
+    width: 65px;
+    outline: none;
+    border: none;
+    font-size: 42px;
+    font-family: "Fjalla One", sans-serif;
+    transition-duration: 0.2s;
+    border: 1px solid #abb686;
+  }
+  
+  .Plus:hover {
+      background-color: #ABB686;
+  }
+
+  .Subtract {
+    position: absolute;
+    margin: auto;
+    top: 75px;
+    right: 5px;
+    border-radius: 13px;
+    background-color: #bfcc94;
+    text-align: center;
+    height: 65px;
+    width: 65px;
+    outline: none;
+    border: none;
+    font-size: 42px;
+    font-family: "Fjalla One", sans-serif;
+    transition-duration: 0.2s;
+    border: 1px solid #abb686;
+  }
+  
+  .Subtract:hover {
+      background-color: #ABB686;
+  }
+
+  .Multiply {
+    position: absolute;
+    margin: auto;
+    top: 145px;
+    left: 5px;
+    border-radius: 13px;
+    background-color: #bfcc94;
+    text-align: center;
+    height: 65px;
+    width: 65px;
+    outline: none;
+    border: none;
+    font-size: 42px;
+    font-family: "Fjalla One", sans-serif;
+    transition-duration: 0.2s;
+    border: 1px solid #abb686;
+  }
+  
+  .Multiply:hover {
+      background-color: #ABB686;
+  }
+
+  .Divide {
+    position: absolute;
+    margin: auto;
+    top: 145px;
+    right: 5px;
+    border-radius: 13px;
+    background-color: #bfcc94;
+    text-align: center;
+    height: 65px;
+    width: 65px;
+    outline: none;
+    border: none;
+    font-size: 42px;
+    font-family: "Fjalla One", sans-serif;
+    transition-duration: 0.2s;
+    border: 1px solid #abb686;
+  }
+  
+  .Divide:hover {
+      background-color: #ABB686;
+  }
+
+  .Equals {
+    position: absolute;
+    margin: auto;
+    top: 215px;
+    left: 0;
+    right: 0;
+    border-radius: 13px;
+    background-color: #bfcc94;
+    text-align: center;
+    height: 65px;
+    width: 138px;
+    outline: none;
+    border: none;
+    font-size: 42px;
+    font-family: "Fjalla One", sans-serif;
+    transition-duration: 0.2s;
+    border: 1px solid #abb686;
+  }
+  
+  .Equals:hover {
+      background-color: #ABB686;
+  }

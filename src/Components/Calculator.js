@@ -1,6 +1,7 @@
 import '../App.css';
 import Textbox from './CalculatorComponents/Textbox';
 import Numbers from './CalculatorComponents/Numbers';
+import Operators from './CalculatorComponents/Operators';
 
 const Calculator = () => {
     return(
@@ -8,6 +9,7 @@ const Calculator = () => {
             <div>
                 <Textbox/>
                 <Numbers/>
+                <Operators/>
             </div>
         </div>
     );
